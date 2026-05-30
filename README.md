@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;BIG+DATA+%7C+MACHINE+LEARNING;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
 </h3>
 <p align="center">
-  <a href="https://github.com/muneeb-x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muneeb-khurram-b0074540a?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:muneebkhurram69@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/muneeb-x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>  <a href="https://www.linkedin.com/in/muneeb-khurram-b0074540a?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="https://abdul-muneeb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>  <a href="mailto:muneebkhurram69@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
