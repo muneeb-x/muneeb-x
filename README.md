@@ -62,7 +62,6 @@ class AboutMe:
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/?username=muneeb-x&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-x&theme=radical&hide_title=true&hide_border=true&card_width=380&layout=compact" alt="Top Languages" />
 </p>
 
 ---
