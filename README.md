@@ -67,6 +67,39 @@ class AboutMe:
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Self-Healing Data Pipeline</h3>
+      <p align="center">
+        <a href="https://github.com/muneeb-x/Self-Healing-data-pipeline" title="View Repo">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=muneeb-x&repo=Self-Healing-data-pipeline&theme=radical&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        A locally-run Python data pipeline with automated fault recovery — circuit breakers, dead-letter queues, quarantine, checkpoint/replay, quality gates, and a live health endpoint.
+        <br><br>
+        <strong>Stack:</strong> FastAPI · Pydantic · APScheduler · SQLite · Loguru
+        <br>
+        ⚡ <code>python run_pipeline.py</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">More Coming Soon</h3>
+      <p align="center">
+        <img src="https://via.placeholder.com/400x120?text=Stay+Tuned" width="100%" alt="placeholder"/>
+      </p>
+      <p align="center">
+        New projects are in the works — check back for updates on NLP, streaming analytics, and MLOps tooling.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
 ### 📫 Let's Connect
